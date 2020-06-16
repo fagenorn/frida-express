@@ -1,6 +1,5 @@
 node_modules
 npm-debug.log
-Dockerfile
 .dockerignore
 base 14.7.5.apk
 frida_binding.node
