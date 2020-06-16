@@ -1,0 +1,18 @@
+{
+  "name": "frida-express-server",
+  "version": "1.0.0",
+  "description": "Frida Express Server",
+  "keywords": [
+    "frida",
+    "nodejs",
+    "express"
+  ],
+  "author": "Fagenorn",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "frida": "^12.9.8",
+    "geoip-lite": "^1.4.2",
+    "socket.io": "^2.3.0"
+  }
+}
