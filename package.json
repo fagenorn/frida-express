@@ -10,7 +10,7 @@
   "author": "Fagenorn",
   "devDependencies": {},
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "frida": "^12.9.8",
     "geoip-lite": "^1.4.2",
     "socket.io": "^2.3.0"
